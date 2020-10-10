@@ -1,5 +1,13 @@
 # Vue.js Boilerplate
 
+Set up using Vue CLI by running the following commands and adding some boilerplate files.
+
+```
+vue create boilerplate-vue
+vue add router
+vue add vuex
+```
+
 ## Project setup
 
 ```
